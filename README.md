@@ -8,3 +8,9 @@ This project helps you register in order to assess your needs by hiring certain 
 
 
 ##Significance
+
+
+##Data Structures
+- list
+- queue
+- 
