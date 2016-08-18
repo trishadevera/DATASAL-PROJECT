@@ -1,16 +1,15 @@
 # DATASAL-PROJECT
-##JServices
+##Sky Chief
 
 ##Introduction
 
-This project helps you register in order to assess your needs by hiring certain people (maid, police, etc.). The register entry is modified queue. It also helps you remove existing user data depending on the applicant number. It allows you to hire single unique people per user.
-
-
+This project aims to create a searching tool that will let the users find the nearest airport in their city which can take them to the country they want to go to. 
 
 ##Significance
-
+- It reduces the hassle of booking a flight to an airline with code sharing agreement
 
 ##Data Structures
-- list
-- queue
+- Graph  (country to airport connections and distances)
+- List (airport search)
  
+##Database
